@@ -1,0 +1,4 @@
+/mnt/c/Users/Jules/OneDrive/Bureau/lucas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Jules/OneDrive/Bureau/lucas/cmake-build-debug/CMakeFiles/lucas.dir
+/mnt/c/Users/Jules/OneDrive/Bureau/lucas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Jules/OneDrive/Bureau/lucas/cmake-build-debug/CMakeFiles/lucas_autogen.dir
