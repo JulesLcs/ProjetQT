@@ -17,14 +17,13 @@ cd /le_chemin_de_votre_projet/cmake-build-debug
 Le fichier lucas est l'éxécutable, situé dans le sous-dossier cmake-build-debug dans le fichier du jeu.
 
 Vous pouvez aussi ouvrir le dossier du jeu avec CLion et le lancer dessus en utilisant la bonne configuration pour votre IDE.
-##
 
 ##📝 Manuel du jeu 📝
 
 Le but du jeu est simple, évitez un maximum de boules de ki ennemies  qui vont
 s'accélérer au fur et à mesure du temps.
 
-####⚠Important à savoir : il y a 2 styles de jeu⚠
+##⚠Important à savoir : il y a 2 styles de jeu⚠
 
 - Le premier est déplacement avec relâchement (vous revenez au milieu quand vous relâchez la touche de déplacement)
 
@@ -32,7 +31,7 @@ s'accélérer au fur et à mesure du temps.
 
 - Le style de jeu par défaut est le premier
 
-#####Voici les commandes pour vous déplacez : 
+##Voici les commandes pour vous déplacez : 
 
 - S : démarrer la 1ère partie
 
@@ -48,7 +47,7 @@ s'accélérer au fur et à mesure du temps.
 
 - R : recommencer sans quitter le jeu
 
-### Interface utilisateur 
+## Interface utilisateur 
 
 - Pour vous connecter, cliquer sur le bouton "Se connecter" dans la barre du menu en haut à gauche.
 
@@ -63,7 +62,7 @@ s'accélérer au fur et à mesure du temps.
 
 Projet Open Source
 
-#####Contact :
+##Contact :
  - Mail : jules.lucas@isen-ouest.yncrea.fr
  - github : https://github.com/JulesLcs
  
