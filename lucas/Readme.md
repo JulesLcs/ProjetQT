@@ -18,12 +18,12 @@ Le fichier lucas est l'éxécutable, situé dans le sous-dossier cmake-build-deb
 
 Vous pouvez aussi ouvrir le dossier du jeu avec CLion et le lancer dessus en utilisant la bonne configuration pour votre IDE.
 
-##📝 Manuel du jeu 📝
+📝 ##Manuel du jeu 📝
 
 Le but du jeu est simple, évitez un maximum de boules de ki ennemies  qui vont
 s'accélérer au fur et à mesure du temps.
 
-##⚠Important à savoir : il y a 2 styles de jeu⚠
+⚠##Important à savoir : il y a 2 styles de jeu⚠
 
 - Le premier est déplacement avec relâchement (vous revenez au milieu quand vous relâchez la touche de déplacement)
 
@@ -57,7 +57,7 @@ s'accélérer au fur et à mesure du temps.
 
 - Pour connaitre le record et qui le détient, cliquez sur le bouton record.
 
-#
+
 #Bon jeu à vous 😊
 
 Projet Open Source
