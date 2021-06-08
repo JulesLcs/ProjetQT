@@ -17,8 +17,9 @@ cd /le_chemin_de_votre_projet/cmake-build-debug
 Le fichier lucas est l'éxécutable, situé dans le sous-dossier cmake-build-debug dans le fichier du jeu.
 
 Vous pouvez aussi ouvrir le dossier du jeu avec CLion et le lancer dessus en utilisant la bonne configuration pour votre IDE.
+##
 
-###📝 Manuel du jeu 📝
+##📝 Manuel du jeu 📝
 
 Le but du jeu est simple, évitez un maximum de boules de ki ennemies  qui vont
 s'accélérer au fur et à mesure du temps.
